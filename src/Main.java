@@ -3,7 +3,7 @@ import java.util.Random;        //für die Random-Klasse notwendig
 
 public class Main {
     // <editor-fold desc="Variablen">
-    static int wannGewonnen = 1000000;        //wie viel Geld erreicht werden muss, um zu gewinnen
+    static int wannGewonnen = 10000;        //wie viel Geld erreicht werden muss, um zu gewinnen
     // </editor-fold>
 
     //main wird ausgeführt
